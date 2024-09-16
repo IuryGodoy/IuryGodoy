@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @IuryGodoy
 - 👀 I’m interested in data modeling and data science
-- 🌱 I’m currently learning R and Oracle
+- 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on a data analises company
-- 📫 How to reach me ...
-- ⚡ Fun fact: i like anime, music and LOL
+- ⚡ Fun fact: i like anime, music and LOL and films, i'm an introvert
 
 <!---
 IuryGodoy/IuryGodoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
